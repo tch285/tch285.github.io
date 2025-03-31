@@ -13,9 +13,11 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+<!-- ## Hydejack -->
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+I am currently a second-year Ph.D student at the University of California, Berkeley, research high-energy nuclear physics under Prof. Barbara Jacak.
+
+Before joining UC Berkeley, I received my BA in Physics and Linguistics at Cornell University, where I received the Prize for my senior thesis on characterizing muon momentum-injection time correlations in the Muon g-2 experiment.
 {:.lead}
 
 1. this list will be replaced by the toc
